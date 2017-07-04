@@ -1,3 +1,0 @@
--time between consulting repairman and email
--flag 11 goes back to consult repairman 
--payment slip for event / asset damage / lost asset
